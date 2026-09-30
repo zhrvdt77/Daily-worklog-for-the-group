@@ -45,21 +45,29 @@ HOW TO USE THIS FILE
   - Output: handled errors with supplemntary figures files attachments. 
   - Status:  Unknown
 
-
 - **[Project/task name]:** < Comparing DEGs in HAND with AD>
   - Output: excel sheets, plots, slides
   - Status: Done
 
  - **[Project/task name]:** < GSEA for 4 comparisons, 2 genesets >
   - Output: plots, slides
-  - Status:  Done   
+  - Status:  In progress   
 
 ### Wed, 9/30
-- **[Project/task name]:** <what you did>
-  - Output: <plot, script, commit, dataset, decision from a call, etc.>
-  - Status: Done / In progress / Blocked
-  - Notes: <optional — why something took a while, what you're waiting on> 
+- **[Project/task name]:** < mbio submission >
+  - Output: handled errors with supplemntary figures files attachments. 
+  - Status:  Unknown
+    
+- **[Project/task name]:** < GSEA for 4 comparisons, 2 genesets >
+  - Output: plots, slides
+  - Status:
+  - Notes:
 
+- **[Project/task name]:** < working on the slides >
+  - Output: plots, slides
+  - Status:
+  - Notes:
+ 
 ### Thu, 10/1
 - **[Project/task name]:** <what you did>
   - Output: <plot, script, commit, dataset, decision from a call, etc.>
